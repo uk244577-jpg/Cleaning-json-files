@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "api-data-sanitizer", "ProjectApi1\api-data-sanitizer.esproj", "{F21FE5C4-1879-65BB-41E5-F87B45BD3255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F21FE5C4-1879-65BB-41E5-F87B45BD3255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21FE5C4-1879-65BB-41E5-F87B45BD3255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21FE5C4-1879-65BB-41E5-F87B45BD3255}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F21FE5C4-1879-65BB-41E5-F87B45BD3255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21FE5C4-1879-65BB-41E5-F87B45BD3255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21FE5C4-1879-65BB-41E5-F87B45BD3255}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C37D9B6-530C-4044-B321-801C9EC4F66A}
+	EndGlobalSection
+EndGlobal
